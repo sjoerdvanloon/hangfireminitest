@@ -1,0 +1,35 @@
+﻿### GET request to example server
+GET http://localhost:5268
+
+
+### POST request to example server
+POST http://localhost:5268/hugs
+Content-Type: application/json
+
+{
+    "name": "John"
+}
+
+### POST request to example server
+POST http://localhost:5268/hugs
+Content-Type: application/json
+
+{
+  "name": "SUUS"
+}
+
+### POST request to example server
+POST http://localhost:5268/hugs
+Content-Type: application/json
+
+{
+  "name": "sJOED"
+}
+
+### POST request to example server
+POST http://localhost:5268/hugs
+Content-Type: application/json
+
+{
+  "name": "Paul"
+}
